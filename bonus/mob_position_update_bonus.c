@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   mob_position_update_bonus.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: alexfuen <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: alexfuen <alexfuen@student.42angouleme.fr> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/01/11 12:57:37 by alexfuen          #+#    #+#             */
 /*   Updated: 2026/01/17 05:48:41 by alexfuen         ###   ########.fr       */

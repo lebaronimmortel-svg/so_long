@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   header_bonus.h                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: alexfuen <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: alexfuen <alexfuen@student.42angouleme.fr> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/01/11 14:43:58 by alexfuen          #+#    #+#             */
 /*   Updated: 2026/01/12 19:10:38 by alexfuen         ###   ########.fr       */

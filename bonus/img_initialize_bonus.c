@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   img_initialize_bonus.c                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: alexfuen <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: alexfuen <alexfuen@student.42angouleme.fr> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/01/11 13:48:37 by alexfuen          #+#    #+#             */
 /*   Updated: 2026/01/12 19:10:47 by alexfuen         ###   ########.fr       */

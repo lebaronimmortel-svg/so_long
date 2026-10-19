@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   gnl_bonus.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: alexfuen <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: alexfuen <alexfuen@student.42angouleme.fr> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/01/17 04:38:57 by alexfuen          #+#    #+#             */
 /*   Updated: 2026/01/17 04:39:01 by alexfuen         ###   ########.fr       */

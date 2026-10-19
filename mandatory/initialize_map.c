@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   initialize_map.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: alexfuen <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: alexfuen <alexfuen@student.42angouleme.fr> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/01/11 13:31:57 by alexfuen          #+#    #+#             */
 /*   Updated: 2026/01/17 18:17:18 by alexfuen         ###   ########.fr       */

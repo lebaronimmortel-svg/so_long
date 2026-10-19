@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   put_image_bonus.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: alexfuen <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: alexfuen <alexfuen@student.42angouleme.fr> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/01/11 12:47:05 by alexfuen          #+#    #+#             */
 /*   Updated: 2026/01/12 19:20:15 by alexfuen         ###   ########.fr       */

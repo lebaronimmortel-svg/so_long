@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   display_moves_count_bonus.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: alexfuen <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: alexfuen <alexfuen@student.42angouleme.fr> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/01/11 11:10:57 by alexfuen          #+#    #+#             */
 /*   Updated: 2026/01/17 05:46:58 by alexfuen         ###   ########.fr       */

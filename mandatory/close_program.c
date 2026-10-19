@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   close_program.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: alexfuen <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: alexfuen <alexfuen@student.42angouleme.fr> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/01/12 16:44:06 by alexfuen          #+#    #+#             */
 /*   Updated: 2026/01/17 18:14:12 by alexfuen         ###   ########.fr       */
